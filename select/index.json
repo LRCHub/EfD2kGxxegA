@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "ice",
+  "base_artist": "カラノア",
+  "createdAt": "2026-02-15T16:35:49.586832Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Put It On Ice",
+      "artist": "Thomas Rhett feat. HARDY",
+      "has_synced": true,
+      "path": "select/01_Put_It_On_Ice_Thomas_Rhett_feat._HARDY.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Put It On Ice",
+      "artist": "Thomas Rhett",
+      "has_synced": true,
+      "path": "select/02_Put_It_On_Ice_Thomas_Rhett.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Ice V",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/03_Ice_V_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Thin Ice",
+      "artist": "Pink Floyd",
+      "has_synced": true,
+      "path": "select/04_The_Thin_Ice_Pink_Floyd.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "냉면-차가운 니 얼굴 (Ice Boy)",
+      "artist": "Girls' Generation",
+      "has_synced": false,
+      "path": "select/05_냉면-차가운_니_얼굴_(Ice_Boy)_Girls'_Generation.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Melting Ice",
+      "artist": "Ladytron",
+      "has_synced": true,
+      "path": "select/06_Melting_Ice_Ladytron.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Melting Ice (The Chaotic Good Remix)",
+      "artist": "Ladytron",
+      "has_synced": false,
+      "path": "select/07_Melting_Ice_(The_Chaotic_Good_Remix)_Ladytron.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Ice Melts",
+      "artist": "Drake feat. Young Thug",
+      "has_synced": true,
+      "path": "select/08_Ice_Melts_Drake_feat._Young_Thug.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Ice Melts (feat. Young Thug)",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/09_Ice_Melts_(feat._Young_Thug)_Drake.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Ice Kisses",
+      "artist": "Zoe Valderrama",
+      "has_synced": false,
+      "path": "select/10_Ice_Kisses_Zoe_Valderrama.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Crystal Clear Ice",
+      "artist": "Yung Lean",
+      "has_synced": false,
+      "path": "select/11_Crystal_Clear_Ice_Yung_Lean.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Ice Cold Smoke",
+      "artist": "Yung Lean",
+      "has_synced": false,
+      "path": "select/12_Ice_Cold_Smoke_Yung_Lean.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Smirnoff Ice",
+      "artist": "Yung Lean",
+      "has_synced": true,
+      "path": "select/13_Smirnoff_Ice_Yung_Lean.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Snake Ice",
+      "artist": "jonatan leandoer96",
+      "has_synced": true,
+      "path": "select/14_Snake_Ice_jonatan_leandoer96.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Grand Finale (feat. Nas, T.I., Bun B, Jadakiss & Ice Cube)",
+      "artist": "Lil Jon & The East Side Boyz",
+      "has_synced": false,
+      "path": "select/15_Grand_Finale_(feat._Nas,_T.I.,_Bun_B,_Jadakiss_&_Ice_Cube)_Lil_Jon_&_The_East_Side_Boyz.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Ice",
+      "artist": "Lorn",
+      "has_synced": true,
+      "path": "select/16_Ice_Lorn.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Ice Cold",
+      "artist": "Lil Tjay",
+      "has_synced": true,
+      "path": "select/17_Ice_Cold_Lil_Tjay.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Ice Cream",
+      "artist": "lil wayne",
+      "has_synced": true,
+      "path": "select/18_Ice_Cream_lil_wayne.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ice",
+      "artist": "カラノア",
+      "has_synced": false,
+      "path": "select/pl_01_ice_カラノア.txt"
+    }
+  ]
+}
